@@ -82,4 +82,4 @@ This test is included in  **[here](acceptance-test)**
 <img src="https://github.com/MayssaJaz/book-boutique-testing/blob/main/photos/tests/integration.png" />
 
 ## End to end testing
-<img src="https://github.com/MayssaJaz/book-boutique-testing/blob/main/photos/tests/endtoend.png" /># book-boutique-ci
+<img src="https://github.com/MayssaJaz/book-boutique-testing/blob/main/photos/tests/endtoend.png" />
